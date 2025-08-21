@@ -1,10 +1,10 @@
 # 🎬 Movies Database SQL 
 
-Projeto de banco de dados relacional com foco em filmes e atores do universo cinematográfico.
+Avaliação de banco de dados relacional com foco em filmes e atores do universo cinematográfico.
 
 ## 🚀 Tecnologias 
 - SQL Server
--  Consultas complexas
+- Consultas complexas
 - Múltiplos JOINs
 - Relacionamentos N:N
   
